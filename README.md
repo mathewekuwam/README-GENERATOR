@@ -41,7 +41,7 @@ This software project contains **6 files** with approximately **2,437 lines of c
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/mathewekuwam/README-GENERETOR.git
+git clone https://github.com/mathewekuwam/README-GENERATOR.git
 cd README-GENERETOR
 ```
 
@@ -50,7 +50,7 @@ cd README-GENERETOR
 ## 📁 Project Structure
 
 ```
-README-GENERETOR/
+README-GENERATOR/
 ├── auto_readme_info.py
 ├── enhanced_readme_generator.py
 ├── README.md
