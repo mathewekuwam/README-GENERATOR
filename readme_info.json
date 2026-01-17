@@ -1,0 +1,24 @@
+{
+  "description": "[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)",
+  "features": [
+    "Analyze Project",
+    "Analyze Project Structure",
+    "Extract Dependencies",
+    "Read Sample Code",
+    "Detect Project Type",
+    "Load Auto Generated Info",
+    "Analyze Project Structure",
+    "Extract Dependencies"
+  ],
+  "run_command": "python main.py  # Adjust as needed",
+  "additional_usage": "Run with --help to see all available options | Use --help flag for command documentation | Configure settings in the config file before running | Configure settings in the config file before running | Configure settings in the config file before running",
+  "install_notes": "",
+  "author_name": "user",
+  "github_username": "yourusername",
+  "email": "",
+  "repo_name": "README-GENERETOR",
+  "license": "MIT",
+  "has_screenshots": false,
+  "screenshot_note": "",
+  "acknowledgments": ""
+}
